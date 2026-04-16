@@ -31,7 +31,7 @@ async def main():
         logger.info("No deals found.")
         return
 
-    max_posts = len(deals) if len(deals) <= 50 else math.ceil(len(deals) / 5)
+    max_posts = len(deals) if len(deals) <= 100 else math.ceil(len(deals) / 5)
 
     to_post = deals[:max_posts]
 
