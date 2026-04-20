@@ -224,5 +224,5 @@ async def main():
     logger.info("FBA Scanner FINISHED...")
 
 
-if __name__ == "__main__":
-    asyncio.run(main())
+#if __name__ == "__main__":
+#    asyncio.run(main())
