@@ -30,7 +30,7 @@ async def fetch_products(session):
                     products.append(json.loads(i))
 
             logger.info(f"Fetched {len(products)} products from source")
-            return products
+            return products[:10000]
 
     except Exception as e:
         logger.error(f"Error fetching products: {e}")
