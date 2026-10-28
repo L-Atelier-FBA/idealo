@@ -1,1 +1,38 @@
-[]
+[
+  {
+    "ean": "4059954051053",
+    "asin": "B07LBL5K2Z",
+    "name": "Rieker Winter Trainers Women black (N32X8-00)",
+    "supplier_cost": 33.36,
+    "amazon_price": 63.95,
+    "fees": 16.88,
+    "profit": 13.710000000000008,
+    "roi": 41.0971223021583,
+    "estimated_sales": 20,
+    "amazon_link": "https://www.amazon.fr/dp/B07LBL5K2Z",
+    "supplier_link": "https://www.idealo.fr/prix/200510079/rieker-winter-trainers-women-black-n32x8-00.html",
+    "sas_link": "https://sas.selleramp.com/sas/lookup?SasLookup%5Bsearch_term%5D=B07LBL5K2Z",
+    "image_url": "https://m.media-amazon.com/images/I/31rxgmARQ7L._SL120_.jpg",
+    "posted": false,
+    "posted_at": null,
+    "created_at": "2026-10-28T10:40:35.764156+00:00"
+  },
+  {
+    "ean": "0196265215997",
+    "asin": "B0BMYRF5JS",
+    "name": "Crocs Kids Classic Clog (206991)",
+    "supplier_cost": 34.44,
+    "amazon_price": 62.32,
+    "fees": 15.96,
+    "profit": 11.920000000000002,
+    "roi": 34.610917537746815,
+    "estimated_sales": 854,
+    "amazon_link": "https://www.amazon.fr/dp/B0BMYRF5JS",
+    "supplier_link": "https://www.idealo.fr/prix/202868840/crocs-kids-classic-clog-206991-moon-jelly.html",
+    "sas_link": "https://sas.selleramp.com/sas/lookup?SasLookup%5Bsearch_term%5D=B0BMYRF5JS",
+    "image_url": "https://m.media-amazon.com/images/I/31cdjbqlK9L._SL120_.jpg",
+    "posted": false,
+    "posted_at": null,
+    "created_at": "2026-10-28T10:41:15.847640+00:00"
+  }
+]
